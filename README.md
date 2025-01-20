@@ -1,7 +1,8 @@
 # LLMOps: Large Language Model Operations
 
 Welcome to the **LLMOps** repository! 🚀  
-This project is based on insights and hands-on practices from the [DeepLearning.ai](https://www.deeplearning.ai/) course, focusing on Large Language Models (LLMs) operations.
+This project is based on insights and hands-on practices from the [DeepLearning.ai](https://www.deeplearning.ai/) course, focusing on Large Language Models Operations (LLMOps).
+Link to the course: [LLMOps](https://learn.deeplearning.ai/courses/llmops/lesson/1/introduction)
 
 ## 🌟 Key Topics Covered
 - **Introduction to LLMOps**
